@@ -1,0 +1,66 @@
+_____________________________________________________________________________________________________________________
+												@@@@ community @@@@
+_____________________________________________________________________________________________________________________
+
+### Licences
+1. customer community : 
+	- No role involve
+	- no rule base sharing
+	- can not own Account
+	- since no role involve so easy to scale for hight volume community(HVC)
+	- 10M
+	- since does not have role involve, that mean can not be in a public group, account/opp/case team, Territory, sharing rule.
+	- they can share data to user if they belong to same sharing groups.
+	- can not use content, liberary.
+	- Read only access to Account
+	- can access parent record if only, parent record is public public read,read/write
+
+2. Customer community Plus : 
+	- have role
+	- have access to report and dashboard
+	- Access to activities
+	- 2MB of storage
+	- 2M
+	
+3. Partner community :
+	- 5MB
+	- 2M
+
+4. Lightening External App:
+	- usage based licence(i.e salesforce charges based on no. of visits)
+
+5. Lightning external app plus:
+
+
+### login based licence
+### usage based licence
+
+_________________________
+### SHARING IN COMMUNITY
+_________________________
+
+1. Implecit : Salesforce out-of-box(like owner, role hirerarchy for cc+ PC+ licence) 
+2. Sharing Set : map access to other object, that are linked to the Account
+3. Share Groups	:	
+			- mostly for high volume community i.e CC
+			- share b/w internal and external user
+			- Share records
+4. Super user Access:
+			
+_________________________
+### SHARING SET
+_________________________
+
+give access to HVC user access to other records(whose "external Access" is private) which are related to there Account(Like: Asset, contact, case, custom object etc.)
+
+Setup --> COmmunity Setting --> Sharing set(set user, and setup the critarea and access)
+
+
+_________________________
+### SHARING GROUP
+_________________________
+
+- share record that are ownerd by HVC user with other
+
+	
+	
