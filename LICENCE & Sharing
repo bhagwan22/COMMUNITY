@@ -65,12 +65,20 @@ _________________________
 Setup --> community setting --> Select one of the sharning set--> select "share group" TAB
 
 _________________________
-### SUPER USER
+### Partner SUPER USER
 _________________________
  - only for cc+ and partner+ licence
  - can access all the data thar are accessible in communiy
  Setup --> community setting--> enable partner super user access
- 
+
+
+_________________________
+### Customer SUPER USER
+_________________________
+- Enable via permission set --> administrative permission --> Portal Super user
+
+
+
  
 
 
