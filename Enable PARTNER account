@@ -1,0 +1,14 @@
+## EXPERIENCE CLOUD (community)
+===============================
+
+
+=> Partner Accouny owner is somethime called "channel manager"
+## partner user role hierarchy: max to 3
+<PartnerAccountName> Executive
+<PartnerAccountName> Manager
+<PartnerAccountName> User
+
+Enable account as partner
+Enable contact as parner user
+
+Note: if role hierarchy is setup later and account is enabled as partner account before that then all partner user associated with the account dosn't get option to change role hierarchy
